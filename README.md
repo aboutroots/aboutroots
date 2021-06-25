@@ -1,5 +1,5 @@
 :wave:
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aboutroots&count_private=true&show_icons=true&theme=radical)
+  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=aboutroots&count_private=true&show_icons=true&theme=nord&hide=contribs,issues" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aboutroots&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aboutroots&layout=compact&show_icons=true&theme=nord" />
